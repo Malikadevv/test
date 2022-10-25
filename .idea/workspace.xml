@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd602e7b-c67a-40ca-940e-82560adb9f18" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FymzC3h0XGFqVzeMWQb2MBNgxK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/keyframes/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\keyframes\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd602e7b-c67a-40ca-940e-82560adb9f18" name="Changes" comment="" />
+      <created>1665472957755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665472957755</updated>
+      <workItem from="1665472958993" duration="97000" />
+      <workItem from="1665473074855" duration="14000" />
+      <workItem from="1665473117985" duration="249000" />
+      <workItem from="1665473386042" duration="1179000" />
+      <workItem from="1665477778030" duration="98000" />
+      <workItem from="1665477906978" duration="1624000" />
+      <workItem from="1665479898932" duration="50000" />
+      <workItem from="1665479968198" duration="469000" />
+      <workItem from="1665480694031" duration="8952000" />
+      <workItem from="1665564223281" duration="40000" />
+      <workItem from="1665578891097" duration="5563000" />
+      <workItem from="1665640737772" duration="2116000" />
+      <workItem from="1665642958564" duration="1704000" />
+      <workItem from="1665645344755" duration="17000" />
+      <workItem from="1665645399705" duration="30000" />
+      <workItem from="1665645582041" duration="19000" />
+      <workItem from="1665645722833" duration="10000" />
+      <workItem from="1665901310473" duration="43000" />
+      <workItem from="1666510570917" duration="170000" />
+      <workItem from="1666510766619" duration="5601000" />
+      <workItem from="1666521115144" duration="7890000" />
+      <workItem from="1666584191119" duration="595000" />
+      <workItem from="1666621096155" duration="267000" />
+      <workItem from="1666682048131" duration="1313000" />
+      <workItem from="1666684745400" duration="724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
